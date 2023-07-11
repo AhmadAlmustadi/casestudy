@@ -1,2 +1,2 @@
 # casestudy
-thata my google case study
+thats my google case study
